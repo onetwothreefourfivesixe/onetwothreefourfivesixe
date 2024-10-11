@@ -14,7 +14,7 @@ I am current a junior in high school, who sometimes makes half decent webapps fo
 - Food enthusiast
 
 ## 📫 Contact Me
-Feel free to reach out via [email](mailto:edwardxuming.lin@gmail.com) or find me on Discord] at 1void_heart1.
+Feel free to reach out via [email](mailto:edwardxuming.lin@gmail.com) or find me on Discord at 1void_heart1.
 <!--
 ## 💡 Contribution
 If you'd like to contribute to my projects, please open an issue or submit a pull request!
