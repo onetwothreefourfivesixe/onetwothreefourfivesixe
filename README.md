@@ -4,7 +4,7 @@ I am current a junior in high school, who sometimes makes half decent webapps fo
 
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript, C++, Python
-- **Frameworks** Flask, Docker, Svelte
+- **Frameworks**: Flask, Docker, Svelte
 
 ## 🌟 Projects
 - To be updated soon
