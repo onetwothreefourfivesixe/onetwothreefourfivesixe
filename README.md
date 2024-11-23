@@ -10,8 +10,9 @@ I am current a junior in high school, who sometimes makes half decent webapps fo
 - To be updated soon
 
 ## 🎨 Interests
-- Swimming, tennis, and badminton
-- Food enthusiast
+- Volleyball
+- Piano, Violin
+- Avid HOI4 Player and strategy games enthuasist
 
 ## 📫 Contact Me
 Feel free to reach out via [email](mailto:edwardxuming.lin@gmail.com) or find me on Discord at 1void_heart1.
