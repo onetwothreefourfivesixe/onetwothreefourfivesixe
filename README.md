@@ -1,10 +1,9 @@
 ## Hi there, I'm Eddie 👋
 
-I am current a senior in high school, who sometimes makes half decent webapps for personal use. I'm still figuring this whole thing out, so don't be surprised if this isn't very in depth.
-
+I am current a senior in high school, who sometimes makes half decent webapps for personal use. 
 ## 🛠️ Skills
-- **Languages**: Java, JavaScript, C++, Python
-- **Frameworks**: Flask, Docker, Svelte
+- **Languages**: Java, JavaScript, C++, Python, HTML-CSS-JS Package, R
+- **Frameworks and Software**: OpenCV, TensorFlow, Flask, Docker, Svelte
 
 ## 🌟 Projects
 - QBVReader Discord Bot
