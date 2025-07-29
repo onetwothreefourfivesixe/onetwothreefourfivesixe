@@ -16,6 +16,7 @@ I am current a senior in high school, who sometimes makes half decent webapps fo
     - Try it out here: https://www.qbv-reader.com/
 
 ## 🎨 Interests
+- Robotics
 - Volleyball
 - Piano, Violin
 - Avid HOI4 Player and strategy games enthuasist
