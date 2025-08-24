@@ -1,6 +1,6 @@
 ## Hi there, I'm Eddie 👋
 
-I am current a senior in high school, who sometimes makes half decent webapps for personal use. 
+I am current a senior in Mclean High School, who sometimes makes half decent webapps for personal use. 
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript, C++, Python, HTML-CSS-JS Package, R
 - **Frameworks and Software**: OpenCV, TensorFlow, Flask, Docker, Svelte
