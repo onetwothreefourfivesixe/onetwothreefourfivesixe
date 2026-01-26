@@ -2,7 +2,7 @@
 
 I am current a senior in Mclean High School, who sometimes makes half decent webapps for personal use. 
 ## 🛠️ Skills
-- **Languages**: Java, JavaScript, C++, Python, HTML-CSS-JS Package, R
+- **Languages**: Java, JavaScript, C++, C# Python, HTML-CSS-JS Package, R
 - **Frameworks and Software**: OpenCV, TensorFlow, Flask, Docker, Svelte
 
 ## 🌟 Projects
