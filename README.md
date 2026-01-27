@@ -9,11 +9,7 @@ I am current a senior in Mclean High School, who sometimes makes half decent web
 - QBVReader Discord Bot
     - This is an active Discord bot I am actively developing which is meant to facilitate Quizbowl readers by reading the text of the tossups and bonuses aloud
     - Supports multiplayer
-    - You can learn more about it here: https://qbvreader.netlify.app/
-- QBVReader Website
-    - This is a web version of the Discord bot
-    - Currently does not support multiplayer
-    - Try it out here: https://www.qbv-reader.com/
+    - You can learn more about it here: https://www.qbv-reader.com/
 
 ## 🎨 Interests
 - Robotics
