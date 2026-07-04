@@ -18,7 +18,8 @@ I am current a rising Freshman at UC Berkeley, who sometimes makes half decent w
 - Avid HOI4 Player and strategy games enthuasist
 
 ## 📫 Contact Me
-Check out my website to learn more https://edwardlin.netlify.app/  
+Check out my website to learn more https://edwardlin.netlify.app/
+
 Feel free to reach out via [email](mailto:edwardxuming.lin@gmail.com) or find me on Discord at 1void_heart1.
 <!--
 ## 💡 Contribution
