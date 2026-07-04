@@ -10,7 +10,10 @@ I am current a rising Freshman at UC Berkeley, who sometimes makes half decent w
     - This is an active Discord bot I am actively developing which is meant to facilitate Quizbowl readers by reading the text of the tossups and bonuses aloud
     - Supports multiplayer
     - You can learn more about it here: https://www.qbv-reader.com/
-
+- ScreenBreak
+    - This is a Java based desktop app designed to remind the user at regular intervals to look away from their computer screens
+    - Allows for the interval to be set
+    - Runs in the background on the system tray 
 ## 🎨 Interests
 - Robotics
 - Volleyball
