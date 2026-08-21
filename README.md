@@ -1,6 +1,6 @@
 ## Hi there, I'm Eddie 👋
 
-I am current a rising Freshman at UC Berkeley, who sometimes makes half decent webapps for personal use. 
+I am current a rising Freshman at UC Berkeley, studying Data Science.
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript, C++, C# Python, HTML-CSS-JS Package, R
 - **Frameworks and Software**: OpenCV, TensorFlow, Flask, Docker, Svelte
