@@ -7,7 +7,7 @@ I am current a rising Freshman at UC Berkeley, studying Data Science.
 
 ## 🌟 Projects
 - QBVReader Discord Bot
-    - This is an active Discord bot I am actively developing which is meant to facilitate Quizbowl readers by reading the text of the tossups and bonuses aloud
+    - This is an active Discord bot and web application I am actively developing which is meant to facilitate Quizbowl readers by reading the text of the tossups and bonuses aloud
     - Supports multiplayer
     - You can learn more about it here: https://www.qbv-reader.com/
 - ScreenBreak
