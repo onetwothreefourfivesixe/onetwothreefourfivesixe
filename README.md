@@ -2,8 +2,8 @@
 
 I am current a Freshman at UC Berkeley, studying Data Science.
 ## 🛠️ Skills
-- **Languages**: Java, JavaScript, C++, C# Python, HTML-CSS-JS Package, R
-- **Frameworks and Software**: OpenCV, TensorFlow, Flask, Docker, Svelte
+- **Languages**: Java, JavaScript, C++, C# Python, HTML-CSS-JS Package, TypeScript R
+- **Frameworks and Software**: OpenCV, TensorFlow, Flask, Docker, Svelte, FastAPI, Pandas
 
 ## 🌟 Projects
 - QBVReader Discord Bot
