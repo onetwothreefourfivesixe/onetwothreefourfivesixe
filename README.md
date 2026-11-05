@@ -1,6 +1,6 @@
 ## Hi there, I'm Eddie 👋
 
-I am a Freshman at UC Berkeley, studying Data Science & Computer Science. I am looking to get into AI alignment/safety, both from a technical and policy angle.
+I am a Freshman at UC Berkeley, studying Data Science & Computer Science. I am looking to get into AI alignment/safety, both from a technical and policy angle. I'm also interested in physical AI!
 
 ## 🛠️ Skills
 - **Languages**: Java, JavaScript, C++, C# Python, HTML-CSS-JS Package, TypeScript R
