@@ -7,9 +7,9 @@ I am a Freshman at UC Berkeley, studying Data Science & Computer Science. I am l
 - **Frameworks and Software**: OpenCV, TensorFlow, Flask, Docker, Svelte, FastAPI, Pandas, Git
 
 ## 🌟 Projects
-- QBVReader Discord Bot
+- QBVReader
     - This is an active Discord bot and web application I am actively developing which is meant to facilitate Quizbowl readers by reading the text of the tossups and bonuses aloud
-    - Supports multiplayer
+    - Supports multiplayer and voice answers
     - You can learn more about it here: https://www.qbv-reader.com/
 - ScreenBreak
     - This is a Java based desktop app designed to remind the user at regular intervals to look away from their computer screens
